@@ -12,6 +12,7 @@
 * banner （网站海报、新闻插图等）
 * print （海报宣传页信函卡票邀请函）
 * infographic （信息图）
+* article （文章）
 
 ## 创作工具
 
