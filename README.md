@@ -5,7 +5,7 @@
 ## 分类
 
 * icon 图标
-* logo
+* logo 标志
 * social 社交媒体图片（微信等）
 * video （视频）
 * prototype （原型设计）
