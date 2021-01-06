@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: Picuture create
-    url: picture.md
-    about: icon, logo and other pictures
-  - name: Video create
-    url: video.md
-    about: video, webcam
