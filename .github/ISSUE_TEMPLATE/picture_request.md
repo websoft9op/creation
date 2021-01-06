@@ -9,22 +9,21 @@ assignees: 'morning-tan'
 
 **需求描述**
 
-设计公司产品体系中的关系型（RDS）数据库图标
+设计[网站](https://www.websoft9.com/en/) Features 部分的文字配图
 
 **清单**
 
-如果设计的是一类型的图标，请一一列出：
+如果设计的是一类型的图片，请一一列出：
 
-* MySQL
-* PostgreSQL
-* Oracle Database
-* SQLServer
+* Running anywhere
+* One click deployment
+* Integration
 
 **使用场景**
 
-请列出改设计的使用场景:
+请列出该设计的使用场景:
 
-1. 云市场
+1. 新闻
 2. 官网
 
 **参考范例**
