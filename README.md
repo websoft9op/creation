@@ -15,6 +15,7 @@
 * print 海报宣传页信函卡票邀请函
 * infographic 信息图
 * prototype 原型设计
+* html HTML5 页面或 ne landing page
 
 ### 多媒体 Media
 
