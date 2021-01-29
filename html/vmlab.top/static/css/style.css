@@ -2952,7 +2952,7 @@ img {
 .service-icon::after {
     position: absolute;
     content: '';
-    border: 1px dashed #4527a4;
+    border: 1px dashed #c8b9f8;
     width: 80px;
     height: 80px;
     left: 0px;
@@ -2964,7 +2964,7 @@ img {
 .service-icon::before {
     position: absolute;
     content: '';
-    background: #4527a4;
+    background: #b9b9b9;
     width: 100%;
     height: 100%;
     left: 0px;
@@ -4941,7 +4941,7 @@ span.accor-open {
 }
 
 .blog-thumb img {
-    width: 50%;
+    width: 60%;
 }
 
 @media (max-width: 1199px) {
