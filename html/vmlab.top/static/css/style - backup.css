@@ -2953,7 +2953,7 @@ img {
 .service-icon::after {
     position: absolute;
     content: '';
-    border: 1px dashed #c8b9f8;
+    border: 1px dashed #ffffff;
     width: 80px;
     height: 80px;
     left: 0px;

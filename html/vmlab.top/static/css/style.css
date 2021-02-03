@@ -2964,7 +2964,7 @@ img {
 .service-icon::before {
     position: absolute;
     content: '';
-    background: #b9b9b9;
+    background: #ffffff;
     width: 100%;
     height: 100%;
     left: 0px;
