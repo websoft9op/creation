@@ -1,8 +1,9 @@
 # .github/workflows/netlify.yml
 name: Build and Deploy to Netlify
-on:
+on: 
   push:
-  pull_request:
+    paths: html/vmlab.top/static/**
+
 jobs:
   build:
     runs-on: ubuntu-18.04
